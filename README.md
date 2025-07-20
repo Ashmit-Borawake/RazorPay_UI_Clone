@@ -1,4 +1,4 @@
-# Razorpay Clone 💸
+# Razorpay UI Clone 💸
 
 A modern, responsive frontend clone of the Razorpay website, built with Tailwind CSS and Vite. This project replicates the look and feel of the official Razorpay homepage, including interactive sections, beautiful gradients, and a mobile-friendly layout.
 
